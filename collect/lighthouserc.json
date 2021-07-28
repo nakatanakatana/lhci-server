@@ -1,0 +1,12 @@
+{
+  "ci": {
+    "collect": {
+      "url": ["https://www.google.com"]
+    },
+    "upload": {
+      "target": "lhci",
+      "serverBaseUrl": "https://lhci-server-bdjh5yidoq-uc.a.run.app",
+      "token": "3f8e080a-901e-4fb9-820d-b3828eea579e"
+    }
+  }
+}
