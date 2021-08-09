@@ -40,5 +40,4 @@ const config = {
     },
 };
 
-console.log(JSON.stringify(config))
 module.exports = config
